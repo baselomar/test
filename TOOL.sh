@@ -14,3 +14,4 @@ echo '
 ______________________________
 [2] - Information - This tool will help you download all kinds of tools
 _______________________________________________________________________
+'|lolcat -p 1.6 -a -d 2 -s 20.0
