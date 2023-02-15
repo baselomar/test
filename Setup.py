@@ -4,11 +4,11 @@ os.system("clear")
 os.system("cd && cd test")
 os.system("bash TOOL.sh") 
 
-print '[1] start the attack'
-print '[2] exit'
+print $green '[1] start the attack'
+print $green '[2] exit'
 option = input('==>')
 if option == 1:
-   file_path = raw_input('path of passwords file :')
+   file_path = raw_input $red('path of passwords file :')
 else:
    system('clear')
    exit()
