@@ -1,5 +1,4 @@
-
-import os
+from os import system
 
 os.system("clear")
 os.system("cd && cd test")
