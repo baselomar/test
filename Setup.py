@@ -14,3 +14,4 @@ elif login_method =="Basel":
 
 def login():
 print ("ok")
+login()
