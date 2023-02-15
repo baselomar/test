@@ -3,7 +3,7 @@ import os
 os.system("clear")
 os.system("cd && cd test")
 os.system("bash TOOL.sh") 
-main()
+
 print '[1] start the attack'
 print '[2] exit'
 option = input('==>')
