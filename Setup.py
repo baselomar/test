@@ -8,7 +8,7 @@ print '$green[1] start the attack'
 print '$green[2] exit'
 option = input('==>')
 if option == 1:
-   file_path = raw_input $red('$red path of passwords file :')
+   file_path = raw_input ('$red path of passwords file :')
 else:
    system('clear')
    exit()
