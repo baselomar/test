@@ -6,7 +6,7 @@ os.system("cd && cd test")
 os.system("bash TOOL.sh") 
 
 def tool_main_function():
-print ("Solect The name for you")
+print "Solect The name for you"
 
 
 elif login_method =="Basel":
